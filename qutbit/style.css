@@ -1,0 +1,7 @@
+.bg{
+    background-image: url("./img/Rectangle.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1140px;
+    height: 500px;
+}
